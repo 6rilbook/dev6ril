@@ -1,0 +1,56 @@
+body {
+  font-family: "Open Sans";
+  background: url('fruit.jpg');
+  color: #ecf0f1;
+  line-height: 1.618em;
+}
+
+.row-fluid {
+	display: flex;
+	margin: auto;
+ 	justify-content: center;
+	margin-right: auto;
+	margin: 2vh;
+}
+
+.base {
+	background-color: #040509;
+	color: #CFC2B1;
+	padding: 50px;
+	overflow: hidden;
+	margin-left: 8%;
+	text-align: center;
+	
+  }
+
+.button1 {
+	background-color: aliceblue;
+	opacity: 0.7;
+	height: 50px;
+	width: 100px ;
+	box-shadow: 10px ;
+	/*~~~~~~~~~~~~~~~~~~~~~~~~
+      mettre au centre 
+ 	 ~~~~~~~~~~~~~~~~~~~~~~~~*/
+	display: flex;
+	margin: auto;
+ 	justify-content: center;
+}
+
+label {
+	font: normal 18px Georgia,serif;
+}
+
+.button2 {
+	display: none;
+	opacity: 0.7;
+	margin: auto;
+ 	justify-content: center;
+	width: 120px;
+}
+.txtmdp{
+	text-align: center;
+	margin-top: 15%;
+	color: rgb(255, 255, 255);
+}
+
