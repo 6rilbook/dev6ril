@@ -30,6 +30,11 @@
   margin-top: 35%;
 }
 
+.cont_principal9 {
+  position: absolute;
+  left: 40%;
+  margin-top: 63%;
+}
 /*.cont_central1 {
   
 
@@ -474,6 +479,12 @@ p {
 
   }
 
+  .cont_principal9 {
+    position: relative;
+    left: 0;
+    margin-top: 50px;
+  }
+
   .cont_principal5 {
     position: relative;
     left: 0;
@@ -548,6 +559,11 @@ p {
     margin-top: 47%;
   }
   
+  .cont_principal9 {
+    position: absolute;
+    left: 40%;
+    margin-top: 7%;
+  }
 
 }
 
